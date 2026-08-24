@@ -38,7 +38,7 @@ export default function Navbar() {
               EZ
             </div>
             <span className="text-white font-bold text-lg leading-tight">
-              Equip<span className="text-orange-400">Zim</span>
+              Equip<span className="text-orange-400">Zimbabwe</span>
             </span>
           </Link>
 
