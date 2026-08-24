@@ -9,7 +9,8 @@ const values = [
 ];
 
 const team = [
-  { name: 'Pastor James Moyo', role: 'Founder & Executive Director', initial: 'JM' },
+  { name: 'Tinashe Murwisi', role: 'Founder & Executive Director', initial: 'TM' },
+  { name: 'Tatenda Kambeu', role: 'Director', initial: 'TK' },
   { name: 'Dr. Grace Ncube', role: 'Clinical Counsellor', initial: 'GN' },
   { name: 'Rev. Samuel Dube', role: 'Spiritual Director', initial: 'SD' },
   { name: 'Tendai Chikwanda', role: 'Programme Coordinator', initial: 'TC' },
