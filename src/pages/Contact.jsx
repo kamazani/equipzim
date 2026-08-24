@@ -48,7 +48,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-semibold text-[#0f1f3d] text-sm">Our Location</p>
-                    <p className="text-gray-500 text-sm">Harare, Zimbabwe, Africa</p>
+                    <p className="text-gray-500 text-sm">150 Whitecliff, Harare, Zimbabwe</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 bg-white p-4 rounded-xl border border-gray-100 shadow-sm">
@@ -57,8 +57,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-semibold text-[#0f1f3d] text-sm">Email Us</p>
-                    <a href="mailto:info@equipzim.org" className="text-gray-500 text-sm hover:text-orange-500 transition-colors">
-                      info@equipzim.org
+                    <a href="mailto:info@equipzim.com" className="text-gray-500 text-sm hover:text-orange-500 transition-colors">
+                      info@equipzim.com
                     </a>
                   </div>
                 </div>
@@ -68,8 +68,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-semibold text-[#0f1f3d] text-sm">Call / WhatsApp</p>
-                    <a href="tel:+2630000000000" className="text-gray-500 text-sm hover:text-orange-500 transition-colors">
-                      +263 000 000 000
+                    <a href="tel:+263773590607" className="text-gray-500 text-sm hover:text-orange-500 transition-colors">
+                      00263 77 359 0607
                     </a>
                   </div>
                 </div>
@@ -91,7 +91,7 @@ export default function Contact() {
                   If you or someone you know is in immediate danger, please call
                   our crisis line or visit the nearest emergency services.
                 </p>
-                <a href="tel:+2630000000000" className="mt-3 inline-block bg-white text-orange-600 text-sm font-bold px-4 py-2 rounded-full">
+                <a href="tel:+263773590607" className="mt-3 inline-block bg-white text-orange-600 text-sm font-bold px-4 py-2 rounded-full">
                   Call Crisis Line
                 </a>
               </div>

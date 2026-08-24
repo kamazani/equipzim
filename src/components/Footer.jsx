@@ -94,18 +94,18 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2 text-gray-400">
                 <MapPin size={15} className="text-orange-400 mt-0.5 shrink-0" />
-                Harare, Zimbabwe, Africa
+                150 Whitecliff, Harare, Zimbabwe
               </li>
               <li>
-                <a href="mailto:info@equipzim.org" className="flex items-center gap-2 text-gray-400 hover:text-orange-400 transition-colors">
+                <a href="mailto:info@equipzim.com" className="flex items-center gap-2 text-gray-400 hover:text-orange-400 transition-colors">
                   <Mail size={15} className="text-orange-400 shrink-0" />
-                  info@equipzim.org
+                  info@equipzim.com
                 </a>
               </li>
               <li>
-                <a href="tel:+2630000000000" className="flex items-center gap-2 text-gray-400 hover:text-orange-400 transition-colors">
+                <a href="tel:+263773590607" className="flex items-center gap-2 text-gray-400 hover:text-orange-400 transition-colors">
                   <Phone size={15} className="text-orange-400 shrink-0" />
-                  +263 000 000 000
+                  00263 77 359 0607
                 </a>
               </li>
             </ul>

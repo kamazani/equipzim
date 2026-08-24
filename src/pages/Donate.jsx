@@ -251,7 +251,7 @@ export default function Donate() {
 
               <div className="bg-orange-50 border border-orange-200 rounded-2xl p-5 text-sm text-orange-800">
                 <p className="font-semibold mb-1">📧 Questions about giving?</p>
-                <p>Email us at <a href="mailto:donate@equipzim.org" className="underline font-medium">donate@equipzim.org</a> and we will be happy to assist.</p>
+                <p>Email us at <a href="mailto:info@equipzim.com" className="underline font-medium">info@equipzim.com</a> and we will be happy to assist.</p>
               </div>
             </div>
           </div>
